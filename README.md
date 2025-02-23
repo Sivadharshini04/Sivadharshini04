@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivadharshini04
-- 👀 I’m interested in Conversational Systems, Neural Networks and Deep Learning Models
-- 🌱 I’m currently learning GenAI, Flutter and Deep Learning basics.
+- 👀 I’m interested in Neural Networks and Deep Learning Models.
+- 🌱 I’m currently learning GenAI, Flutter and Deep Learning.
 - 📫 Reach me out ---> sivadharshinisaminathan@gmail.com
 - 😄 LinkedIn: www.linkedin.com/in/sivadharshini-s-31128b258
 - ⚡ Fun fact: I am a Trivia buff!
