@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sivadharshini04
-- 👀 I’m interested in Machine Learning Models and Cognitive Science and Analysis.
-- 🌱 I’m currently working with RASA, Flutter, NLTK and ML libraries (Pandas, Seaborn, sci-kit Learn).
+- 👀 I’m interested in Machine Learning Models and Cognitive Science and Analytics.
+- 🌱 I’m currently working with RASA, Flutter, NLTK and ML libraries (Pandas, Seaborn, sci-kit Learn, TensorFlow).
 - 😄 LinkedIn: www.linkedin.com/in/sivadharshini-s-31128b258
 - ⚡ Fun fact: I am a Trivia buff!
 
