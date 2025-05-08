@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey there! <br>I'm Sivadharshini S, a passionate Junior currently pursuing my Bachelor's in Computer Science and Business Systems. <br>I’m specializing in Artificial Intelligence through an Honours program, with a deep interest in Natural Language Processing (NLP), Deep Learning, Conversational Systems and beyond. 🚀<br>I love building systems that connect technology with human experiences, and I'm always excited to learn, experiment, and grow!<br><br>🎯 Currently Working On:  <br>- Projects in NLP and GenAI<br>- Projects in ML<br>- Projects in Cognitive Science and Analytics<br>- Developing mobile apps using Flutter (Dart)<br>- Automating workflows using UiPath<br>
 
 
